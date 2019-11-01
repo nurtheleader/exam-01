@@ -1,0 +1,83 @@
+* {
+	margin: 0px;
+	padding: 0px
+}
+
+body {
+	font-family: 'Open Sans Condensed', sans-serif;
+	background-color: gray;
+	background-size: cover;
+}
+
+.container {
+	width: 1140px;
+	margin: 50px auto;
+}
+
+.info {
+	width: 60%;
+	float: left;
+}
+
+.info h1 {
+    color: white;
+}
+
+.info p {
+    color: white;
+    margin: 15px 0px;
+}
+
+.info i {
+
+}
+
+.bttn {
+	display: block;
+	margin: 0 auto;
+	border-radius: 50px;
+}
+
+.form {
+
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    margin: 20px;
+    font-size: 26px;
+}
+
+.heading h3 {
+
+}
+
+.heading p {
+
+}
+
+.login {
+
+}
+
+.form-control {
+    display: block;
+    width: 320px;
+    padding: 8px;
+    margin: 10px auto;
+}
+
+.bttn {
+    display: block;
+    margin: 20px;
+    color: white;
+    border-radius: 50px;
+    background-color: #3f3fab;
+    border: none;
+    padding: 10px 24px;
+}
+
+.btn {
+	
+}
